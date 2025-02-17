@@ -1,1 +1,1 @@
-
+A C program that simulates a ranked-choice (runoff) election. Voters rank candidates in order of preference, and candidates with the fewest votes are eliminated in rounds until a winner is determined.
